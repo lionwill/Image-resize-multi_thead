@@ -6,8 +6,8 @@ import time
 import concurrent.futures
 
 # Define global variables
-IMAGE_DIR = 'Brian Miller'  #image folder for resize
-RESIZED_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Brian Miller-resized')  #resized image folder name
+IMAGE_DIR = 'xxximgage folder'  #image folder for resize
+RESIZED_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'resized')  #resized image folder name
 
 # Initialize counters
 total_images = 0
